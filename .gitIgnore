@@ -1,0 +1,13 @@
+.idea
+mocks/**/*.go
+.vscode
+.env*
+tmp
+*.sql
+*.http
+.DS_Store
+.idea
+.env_test
+services/banking/fixer
+k8s
+utils
